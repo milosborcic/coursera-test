@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Milos Borcic
 
 You can use the [editor on GitHub](https://github.com/milosborcic/coursera-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
